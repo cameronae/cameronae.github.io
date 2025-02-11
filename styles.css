@@ -9,7 +9,17 @@ body {
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
 }
-
+.mad {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #780606;
+    font-family: 'Arial', sans-serif;
+}
 .cover-image {
     max-width: 100%;
     height: auto;
